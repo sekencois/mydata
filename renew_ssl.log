@@ -1,10 +1,10 @@
-[Fri 22 Mar 2024 03:15:06 AM WIB] ===Starting cron===
-[Fri 22 Mar 2024 03:15:07 AM WIB] Already uptodate!
-[Fri 22 Mar 2024 03:15:07 AM WIB] Upgrade success!
-[Fri 22 Mar 2024 03:15:07 AM WIB] Auto upgraded to: 3.0.8
-[Fri 22 Mar 2024 03:15:07 AM WIB] Renew: '6zjxq.myvpnstoree.com'
-[Fri 22 Mar 2024 03:15:07 AM WIB] Renew to Le_API=https://acme-v02.api.letsencrypt.org/directory
-[Fri 22 Mar 2024 03:15:07 AM WIB] Skip, Next renewal time is: 2024-05-19T07:00:32Z
-[Fri 22 Mar 2024 03:15:07 AM WIB] Add '--force' to force to renew.
-[Fri 22 Mar 2024 03:15:07 AM WIB] Skipped 6zjxq.myvpnstoree.com_ecc
-[Fri 22 Mar 2024 03:15:07 AM WIB] ===End cron===
+[Thu 28 Mar 2024 03:15:02 AM WIB] ===Starting cron===
+[Thu 28 Mar 2024 03:15:03 AM WIB] Already uptodate!
+[Thu 28 Mar 2024 03:15:03 AM WIB] Upgrade success!
+[Thu 28 Mar 2024 03:15:03 AM WIB] Auto upgraded to: 3.0.8
+[Thu 28 Mar 2024 03:15:03 AM WIB] Renew: '6zjxq.myvpnstoree.com'
+[Thu 28 Mar 2024 03:15:03 AM WIB] Renew to Le_API=https://acme-v02.api.letsencrypt.org/directory
+[Thu 28 Mar 2024 03:15:03 AM WIB] Skip, Next renewal time is: 2024-05-19T07:00:32Z
+[Thu 28 Mar 2024 03:15:03 AM WIB] Add '--force' to force to renew.
+[Thu 28 Mar 2024 03:15:03 AM WIB] Skipped 6zjxq.myvpnstoree.com_ecc
+[Thu 28 Mar 2024 03:15:03 AM WIB] ===End cron===

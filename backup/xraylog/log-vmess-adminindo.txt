@@ -1,0 +1,26 @@
+[0;34m--------------------------------------[0m
+  ∆ VMESS ACCOUNT ∆  
+[0;31m--------------------------------------[0m
+Remarks        : adminindo
+Quota          : 9999 GB
+Domain         : 6zjxq.myvpnstoree.com
+ISP            : CV Atha Media Prima
+Region         : Jakarta
+Port TLS/gRPC  : 443, 8443, 2053, 2083, 2087, 2096
+Port none TLS  : 80, 2082, 8880, 8080, 2095, 2086, 2052
+id             : 0efe0193-827f-489f-b79e-6ee17526aef9
+alterId        : 0
+Security       : auto
+Network        : ws
+Path           : /vmess • /multipath • (suka-suka)
+Service Name   : vmess-grpc
+[0;34m--------------------------------------[0m
+Link TLS       : vmess://eyAidiI6ICIyIiwgInBzIjogImFkbWluaW5kbyIsICJhZGQiOiAiNnpqeHEubXl2cG5zdG9yZWUuY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBlZmUwMTkzLTgyN2YtNDg5Zi1iNzllLTZlZTE3NTI2YWVmOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInRscyI6ICJ0bHMiIH0K
+[0;31m--------------------------------------[0m
+Link none TLS  : vmess://eyAidiI6ICIyIiwgInBzIjogImFkbWluaW5kbyIsICJhZGQiOiAiNnpqeHEubXl2cG5zdG9yZWUuY29tIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMGVmZTAxOTMtODI3Zi00ODlmLWI3OWUtNmVlMTc1MjZhZWY5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAidGxzIjogIm5vbmUiIH0K
+[0;34m--------------------------------------[0m
+Link gRPC      : vmess://eyAidiI6ICIyIiwgInBzIjogImFkbWluaW5kbyIsICJhZGQiOiAiNnpqeHEubXl2cG5zdG9yZWUuY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBlZmUwMTkzLTgyN2YtNDg5Zi1iNzllLTZlZTE3NTI2YWVmOSIsICJhaWQiOiAiMCIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogInZtZXNzLWdycGMiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInRscyI6ICJ0bHMiIH0K
+[0;31m--------------------------------------[0m
+Expired On     : 4762-02-19
+[0;34m--------------------------------------[0m
+
