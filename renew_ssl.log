@@ -1,17 +1,10 @@
-[Thu 04 Apr 2024 03:15:01 AM WIB] ===Starting cron===
-[Thu 04 Apr 2024 03:15:01 AM WIB] Installing from online archive.
-[Thu 04 Apr 2024 03:15:01 AM WIB] Downloading https://github.com/acmesh-official/acme.sh/archive/master.tar.gz
-[Thu 04 Apr 2024 03:15:03 AM WIB] Extracting master.tar.gz
-[Thu 04 Apr 2024 03:15:03 AM WIB] Installing to /root/.acme.sh
-[Thu 04 Apr 2024 03:15:03 AM WIB] Installed to /root/.acme.sh/acme.sh
-[Thu 04 Apr 2024 03:15:03 AM WIB] Good, bash is found, so change the shebang to use bash as preferred.
-[Thu 04 Apr 2024 03:15:05 AM WIB] OK
-[Thu 04 Apr 2024 03:15:05 AM WIB] Install success!
-[Thu 04 Apr 2024 03:15:05 AM WIB] Upgrade success!
-[Thu 04 Apr 2024 03:15:05 AM WIB] Auto upgraded to: 3.0.8
-[Thu 04 Apr 2024 03:15:05 AM WIB] Renew: '6zjxq.myvpnstoree.com'
-[Thu 04 Apr 2024 03:15:05 AM WIB] Renew to Le_API=https://acme-v02.api.letsencrypt.org/directory
-[Thu 04 Apr 2024 03:15:05 AM WIB] Skip, Next renewal time is: 2024-05-19T07:00:32Z
-[Thu 04 Apr 2024 03:15:05 AM WIB] Add '--force' to force to renew.
-[Thu 04 Apr 2024 03:15:05 AM WIB] Skipped 6zjxq.myvpnstoree.com_ecc
-[Thu 04 Apr 2024 03:15:05 AM WIB] ===End cron===
+[Sun 07 Apr 2024 03:15:01 AM WIB] ===Starting cron===
+[Sun 07 Apr 2024 03:15:02 AM WIB] Already uptodate!
+[Sun 07 Apr 2024 03:15:02 AM WIB] Upgrade success!
+[Sun 07 Apr 2024 03:15:02 AM WIB] Auto upgraded to: 3.0.8
+[Sun 07 Apr 2024 03:15:03 AM WIB] Renew: '6zjxq.myvpnstoree.com'
+[Sun 07 Apr 2024 03:15:03 AM WIB] Renew to Le_API=https://acme-v02.api.letsencrypt.org/directory
+[Sun 07 Apr 2024 03:15:03 AM WIB] Skip, Next renewal time is: 2024-05-19T07:00:32Z
+[Sun 07 Apr 2024 03:15:03 AM WIB] Add '--force' to force to renew.
+[Sun 07 Apr 2024 03:15:03 AM WIB] Skipped 6zjxq.myvpnstoree.com_ecc
+[Sun 07 Apr 2024 03:15:03 AM WIB] ===End cron===
