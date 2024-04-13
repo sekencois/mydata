@@ -1,11 +1,11 @@
 HTTP/2 200 
 server: GitHub.com
-date: Sat, 06 Apr 2024 20:15:01 GMT
+date: Fri, 12 Apr 2024 20:15:01 GMT
 content-type: application/json; charset=utf-8
 cache-control: public, max-age=60, s-maxage=60
 vary: Accept, Accept-Encoding, Accept, X-Requested-With
 etag: W/"2a7b0528dec69cd01ddd3e1f9d6b32970139ebeb718ed326ba17125029ac0911"
-last-modified: Sat, 06 Apr 2024 19:33:47 GMT
+last-modified: Fri, 12 Apr 2024 16:40:43 GMT
 x-poll-interval: 300
 x-github-media-type: github.v3; format=json
 x-github-api-version-selected: 2022-11-28
@@ -19,10 +19,10 @@ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
 x-ratelimit-limit: 60
 x-ratelimit-remaining: 59
-x-ratelimit-reset: 1712438102
+x-ratelimit-reset: 1712956502
 x-ratelimit-resource: core
 x-ratelimit-used: 1
 accept-ranges: bytes
 content-length: 357
-x-github-request-id: C868:59C05:7977B5:7CEE4E:6611AD46
+x-github-request-id: A6A0:393D81:222A102:22C3F12:66199646
 
