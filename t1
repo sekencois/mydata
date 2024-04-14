@@ -1,21 +1,21 @@
-Database updated: 2024-04-14 13:00:00
+Database updated: 2024-04-14 18:00:00
 
    eth0 since 03/21/2024
 
-          rx:  63.71 GiB      tx:  17.74 GiB      total:  81.45 GiB
+          rx:  64.17 GiB      tx:  17.82 GiB      total:  81.99 GiB
 
    monthly
                      rx      |     tx      |    total    |   avg. rate
      ------------------------+-------------+-------------+---------------
        Mar '24     30.43 GiB |   11.54 GiB |   41.96 GiB |  134.59 kbit/s
-       Apr '24     33.29 GiB |    6.20 GiB |   39.49 GiB |  289.93 kbit/s
+       Apr '24     33.75 GiB |    6.28 GiB |   40.02 GiB |  289.40 kbit/s
      ------------------------+-------------+-------------+---------------
-     estimated     73.74 GiB |   13.74 GiB |   87.48 GiB |
+     estimated     73.63 GiB |   13.69 GiB |   87.32 GiB |
 
    daily
                      rx      |     tx      |    total    |   avg. rate
      ------------------------+-------------+-------------+---------------
      yesterday      2.12 GiB |  292.39 MiB |    2.41 GiB |  239.39 kbit/s
-         today      1.21 GiB |  204.63 MiB |    1.41 GiB |  259.64 kbit/s
+         today      1.68 GiB |  279.71 MiB |    1.95 GiB |  258.39 kbit/s
      ------------------------+-------------+-------------+---------------
-     estimated      2.24 GiB |  377.77 MiB |    2.61 GiB |
+     estimated      2.23 GiB |  372.95 MiB |    2.60 GiB |
